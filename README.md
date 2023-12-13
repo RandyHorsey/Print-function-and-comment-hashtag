@@ -12,7 +12,7 @@ In this display I'm using the print function to display my input and I'm also in
 <h2>Examples:</h2>
 
  <h4>
-Using print and comment hashtag: </h4>
+Using the print function and the comment hashtag: </h4>
 <img src="https://imgur.com/drRxwR5.png" height="65%" width="70%" alt="Security Audit"/>
 <img src="https://imgur.com/htfVU5H.png" height="65%" width="70%" alt="Security Audit"/>
 
