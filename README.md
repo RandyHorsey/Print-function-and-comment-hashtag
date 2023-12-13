@@ -13,11 +13,6 @@ In this display I'm using the print function to display my input and I'm also in
 
  <h4>
 Using print and comment hashtag: </h4>
-<img src="https://imgur.com/BrHCgRd.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/h9HmYVA.png" height="65%" width="70%" alt="Security Audit"/>
-<h4>
-Returning more data:  </h4>
-<img src="https://imgur.com/YI6L3AN.png" height="65%" width="70%" alt="Security Audit"/>
-<img src="https://imgur.com/Ptt2CzS.png" height="65%" width="70%" alt="Security Audit"/>
-<h4>Retrieved login attempt data: </h4>
-<img src="https://imgur.com/cBg2xxx.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/drRxwR5.png" height="65%" width="70%" alt="Security Audit"/>
+<img src="https://imgur.com/htfVU5H.png" height="65%" width="70%" alt="Security Audit"/>
+
